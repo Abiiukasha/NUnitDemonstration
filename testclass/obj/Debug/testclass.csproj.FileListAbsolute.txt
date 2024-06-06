@@ -1,0 +1,7 @@
+C:\Users\abdul\source\repos\NUnitDemonstration\testclass\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\abdul\source\repos\NUnitDemonstration\testclass\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\abdul\source\repos\NUnitDemonstration\testclass\bin\Debug\nunit.engine.dll
+C:\Users\abdul\source\repos\NUnitDemonstration\testclass\bin\Debug\nunit.engine.api.dll
+C:\Users\abdul\source\repos\NUnitDemonstration\testclass\bin\Debug\nunit.engine.core.dll
+C:\Users\abdul\source\repos\NUnitDemonstration\testclass\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\abdul\source\repos\NUnitDemonstration\testclass\obj\Debug\testclass.csproj.Up2Date
